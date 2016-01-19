@@ -1,0 +1,14 @@
+layout_spectrum: 0.9982079
+color:
+  saturation: 0.7445468
+  brandStrength: 1
+  lightness: 0.8169636
+  brandColors:
+    - '#FFFFFF'
+    - '#32404D'
+    - '#03ACF1'
+    - '#5D646D'
+    - '#A4ABB3'
+  rhythmicContrast: 0.7078853
+typography_spectrum: 0.59319
+name: XBTeller
